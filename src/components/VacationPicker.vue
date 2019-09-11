@@ -32,7 +32,7 @@
             }
         },
         methods:{
-            increment (){
+            increment(){
                 // a lot of calculations
                 this.counter++;
             },
